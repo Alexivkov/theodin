@@ -1,0 +1,8 @@
+#main_photo {
+    max-width: 100%;
+    height: auto;
+}
+
+.name {
+    margin: 0 auto;
+}

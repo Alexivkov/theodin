@@ -1,0 +1,22 @@
+body {
+    font-family: Roboto,sans-serif;
+    padding: 0 30px;
+}
+
+picture {
+    text-align: center;
+    display: block;
+}
+#main_photo {
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+}
+
+.name{
+    text-align: center;
+}
+article p{
+    /* margin:0 200px; */
+    text-indent: 20px;
+}
