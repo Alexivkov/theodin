@@ -20,3 +20,17 @@ article p{
     /* margin:0 200px; */
     text-indent: 20px;
 }
+
+section{
+    padding: 0 15%;
+}
+
+section h2 {
+    text-align: center;
+}
+
+.card {
+    width: 100% !important;
+    margin-top: 1rem;  
+    border-radius: 15px;  
+}
